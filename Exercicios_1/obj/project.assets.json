@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gustavo\\.nuget\\packages\\": {}
+    "/home/usuario/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\Programacao\\Desenvolvimento_Software_Visual\\Exercicios_1\\Exercicios_1.csproj",
+      "projectUniqueName": "/home/usuario/Dev/Desenvolvimento_Software_Visual-main/Exercicios_1/Exercicios_1.csproj",
       "projectName": "Exercicios_1",
-      "projectPath": "C:\\Users\\Gustavo\\Documents\\Programacao\\Desenvolvimento_Software_Visual\\Exercicios_1\\Exercicios_1.csproj",
-      "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo\\Documents\\Programacao\\Desenvolvimento_Software_Visual\\Exercicios_1\\obj\\",
+      "projectPath": "/home/usuario/Dev/Desenvolvimento_Software_Visual-main/Exercicios_1/Exercicios_1.csproj",
+      "packagesPath": "/home/usuario/.nuget/packages/",
+      "outputPath": "/home/usuario/Dev/Desenvolvimento_Software_Visual-main/Exercicios_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/usuario/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
